@@ -1,0 +1,1 @@
+print("This is an example program for VS Code Installation and Verification")
