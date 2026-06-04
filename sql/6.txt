@@ -1,0 +1,3 @@
+SELECT event_id, resource_type, COUNT(resource_id) as resource_count 
+FROM Resources 
+GROUP BY event_id, resource_type;
